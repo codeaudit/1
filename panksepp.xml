@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-30T10:54:13.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="n4Nv7CgLJyfADSeXNyh9" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-30T11:00:33.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="0A2DW3ZnDQn5UNow5vMC" version="12.3.3" type="github" pages="1">
   <diagram id="5e5da5a1-5490-625b-b4d3-c67b4cab8eb0" name="Page-1">
     <mxGraphModel dx="878" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="31" value="Panic" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="156" width="80" height="54" as="geometry"/>
         </mxCell>
-        <mxCell id="32" value="&lt;b&gt;Panksepp Emotion&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="520" y="50" width="120" height="30" as="geometry"/>
+        <mxCell id="32" value="&lt;b&gt;Intrinsic Motivation&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="520" y="50" width="130" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="38" value="Envy&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="680" y="314" width="80" height="60" as="geometry"/>
@@ -153,6 +153,18 @@
         </mxCell>
         <mxCell id="ggGLc_VsgTun0OtFkyqu-63" value="Shared&lt;br&gt;Intentionality" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="582.5" y="81.5" width="80" height="54" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-63" value="Leadership" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="460" width="70" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-64" value="Purpose" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="460" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-65" value="Doctrine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="460" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-66" value="Art of War" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="388" y="498" width="70" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
