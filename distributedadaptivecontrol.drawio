@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-30T11:14:00.900Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="tyfraUJGNDGBWUWPejH2" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-30T11:16:56.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="RWDHtonH-0Y61mFC6ARm" version="12.3.3" type="github" pages="1">
   <diagram id="92yFzJVx4jjbitU3hUb6" name="Page-1">
     <mxGraphModel dx="878" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -169,6 +169,15 @@
         </mxCell>
         <mxCell id="DBHyVRBHb3APAbso9bsT-57" value="Contextual" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;fontSize=24;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="635" y="135" width="130" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="VYKZWfddnw-8xBe3jmEu-1" value="Orient" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="590" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VYKZWfddnw-8xBe3jmEu-2" value="Observe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="590" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="VYKZWfddnw-8xBe3jmEu-3" value="Decide" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="590" width="50" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
