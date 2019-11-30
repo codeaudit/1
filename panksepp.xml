@@ -1,37 +1,37 @@
-<mxfile host="www.draw.io" modified="2019-11-30T10:49:46.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="zB_Qrtks1ZL5NRMGk2ks" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-30T10:54:13.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="n4Nv7CgLJyfADSeXNyh9" version="12.3.3" type="github" pages="1">
   <diagram id="5e5da5a1-5490-625b-b4d3-c67b4cab8eb0" name="Page-1">
     <mxGraphModel dx="878" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="2" value="Social Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="2" value="Social Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="152" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="3" value="Narrative Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#FFFF99;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="3" value="Narrative Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="78" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="4" value="Volitional Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="311" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="5" value="Perspectival Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#E6FFCC;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="5" value="Perspectival Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="231" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="6" value="Bodily Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="6" value="Bodily Self" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="220" y="388" width="120" height="54" as="geometry"/>
         </mxCell>
-        <mxCell id="8" value="Openness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#E6FFCC;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="8" value="Openness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="358" y="230" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="9" value="Contientiousness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="9" value="Contientiousness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="358" y="309" width="120" height="65" as="geometry"/>
         </mxCell>
-        <mxCell id="10" value="Agreeableness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#FFFF99;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="10" value="Agreeableness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="358" y="79" width="120" height="59" as="geometry"/>
         </mxCell>
         <mxCell id="11" value="Stability &lt;br&gt;(Neuroticism)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="358" y="388" width="120" height="54" as="geometry"/>
         </mxCell>
-        <mxCell id="12" value="Extraversion" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="12" value="Extraversion" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="358" y="153" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="13" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=1;" parent="1" edge="1">
@@ -82,49 +82,49 @@
         <mxCell id="32" value="&lt;b&gt;Panksepp Emotion&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="520" y="50" width="120" height="30" as="geometry"/>
         </mxCell>
-        <mxCell id="38" value="Envy&lt;br&gt;(Sadness + Joy)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="495" y="580" width="80" height="60" as="geometry"/>
+        <mxCell id="38" value="Envy&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="680" y="314" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="39" value="Greed (Anticipation +&lt;br&gt;Fear)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="770" y="645.5" width="80" height="60" as="geometry"/>
+        <mxCell id="39" value="Greed&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="680" y="156" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="40" value="Sloth (Sadness + Disgust)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="590" y="645.5" width="80" height="60" as="geometry"/>
+        <mxCell id="40" value="Sloth" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="950" y="312" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="41" value="Wrath (Anger)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="680" y="580" width="80" height="60" as="geometry"/>
+        <mxCell id="41" value="Wrath" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="680" y="385" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="44" value="Gluttony&lt;br&gt;(Anger + Fear)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="770" y="575.5" width="80" height="60" as="geometry"/>
+        <mxCell id="44" value="Gluttony" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="770" y="314" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="45" value="Pride (Anger + Joy)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="590" y="580" width="80" height="60" as="geometry"/>
+        <mxCell id="45" value="Pride" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="680" y="81.5" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="46" value="Lust (Anticipation + Anger)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="680" y="645.5" width="80" height="60" as="geometry"/>
+        <mxCell id="46" value="Lust&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="860" y="314" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="47" value="&lt;b&gt;Seven Deadly Sins&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="590" y="715.5" width="120" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="48" value="Charity" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="48" value="Charity" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="126" y="150" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="49" value="Chastity&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="49" value="Chastity&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="126" y="234" width="80" height="57" as="geometry"/>
         </mxCell>
-        <mxCell id="50" value="Temperance&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="50" value="Temperance&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="126" y="385" width="80" height="57" as="geometry"/>
         </mxCell>
-        <mxCell id="51" value="Diligence" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="51" value="Diligence" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="36" y="310" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="52" value="Patience&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="52" value="Patience&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="127" y="309" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="53" value="Kindness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="53" value="Kindness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="36" y="150" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="54" value="Humility" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="54" value="Humility" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="126" y="78" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="55" value="&lt;b&gt;Seven Virtues&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
