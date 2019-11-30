@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-30T11:17:34.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="elmMBeOVF-fO1ZJ1qT9E" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-30T11:18:55.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="1ZSGpMnyoyhT5ybFw0xD" version="12.3.3" type="github" pages="1">
   <diagram id="5e5da5a1-5490-625b-b4d3-c67b4cab8eb0" name="Page-1">
     <mxGraphModel dx="1728" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="585" y="648.5" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="16" value="&lt;b&gt;Subjective Awareness&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
-          <mxGeometry x="413.5" y="52.5" width="140" height="20" as="geometry"/>
+          <mxGeometry x="413.5" y="50" width="140" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="18" value="Play" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="234" y="232" width="80" height="60" as="geometry"/>
@@ -145,8 +145,8 @@
         <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-66" value="Art of War" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="530" width="70" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-73" value="&lt;b&gt;Personality - Strategy&lt;/b&gt;&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
-          <mxGeometry x="550" y="52.5" width="140" height="20" as="geometry"/>
+        <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-73" value="&lt;b&gt;Personality&lt;/b&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="Q_NP3_1B-BnQ5Z6YvSEW-74" value="Openness" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="550" y="232.5" width="120" height="60" as="geometry"/>
