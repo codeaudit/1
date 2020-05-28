@@ -1,1 +1,49 @@
-<mxfile userAgent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36" version="8.8.6" editor="www.draw.io" type="github"><diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">7ZhBk5sgFMc/jTPtoTso0WSPG5Ps7ky7h6YzPVMhShfFIRiTfvqCYqJiOz0Ye0g8JPh/8JD3A57owDA9PguUJ184JszxAD46cOV43nwG1a8WTrXgg6AWYkFxLbkXYUt/ESMCoxYUk32nouScSZp3xYhnGYlkR0NC8LJbbcdZt9ccxcQSthFitvqdYpnU6sIHF/2F0DhpenaBsfxA0XsseJGZ/hwP7qqrNqeo8WXq7xOEedmS4NqBoeBc1qX0GBKmQ9uErW63+YP1/NyCZPJfGnh1gwNihRm6YlkwJKg8Kf3DGynV32dyIOyjeWJ5aqJUjZNoT64Dl2VCJdnmKNLWUk0LpSUyZcZ8Hml1IwV/JyFnXFSuIKguZdlRxlr6OthswlDpsUCYqkG1bCawcIkYjTOlRcpOlHFpR8EE5kCEJMeWZKLyTHhKpNBDNlbo+nUTM4MDA6y8TAe3gZi0pkJTD5kZGJ89XyioggExDAX+FcoNQ3BnE1KYWRReM0wPFBdIUp7dFIhZs/MZEEqYDoRvgfhGsn2FACC10Xog5NmOUZUHbopJ0GUyAxMujsBi8kZiLuntLQ31SF0M/oQY5haGr2TPWXFzFNxepoBgwg1qYVEIOc+JuL3FcE7Q/yNhu3bGtoI/FFodQIz2ScUEDEVGB4Cq08GTMaQUY+1R+8i15/QY63PQQ3328B5+Fmn+mj3pO+1cR0NNUFXScYIL3Ye2vRCk+/Th6HAFl/Xsg6tHMA5b3+2yhZ7N9nEA7XwMtHa+uaOFq0/q4DnSwvV7++fc3j+vBtfOYne4Gm4wElzYf1MceHu/Glw7Od7hwlXgj3QI6CfcYEK0j3e0Q+vWH2tPBr1Dtztdwm1y+51tb08e6dDYe5eaX42sur18Ta5srS/2cP0b</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-28T11:50:58.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" version="13.1.5" etag="W7DmZtCBZxDYlV_coLpi" type="github">
+  <diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">
+    <mxGraphModel dx="615" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Modularity (New Level)" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="315" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Modularity" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="315" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Individuation" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="450" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Tension and Conflict" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="460" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Negotiation" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="230" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Resolution" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="115" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Cooperation" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;fontColor=#333333;gradientColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="510" y="320" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=-110;" parent="1" vertex="1">
+          <mxGeometry x="155" y="375" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=-160;" parent="1" vertex="1">
+          <mxGeometry x="360" y="445" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=65;" parent="1" vertex="1">
+          <mxGeometry x="440" y="165" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=-50;" parent="1" vertex="1">
+          <mxGeometry x="100" y="210" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=53;strokeColor=#000000;fillColor=#E6FFCC;gradientColor=#ffffff;rotation=-1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="70" width="90" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
