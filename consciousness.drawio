@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T21:24:49.211Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NSzwccc7Hdt9SP1j3LIl" version="13.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-21T21:37:55.008Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="oCgCM1THCILH6G98zOBq" version="13.4.3" type="github">
   <diagram id="m00LCVsBQZGCc9_Un1Sd" name="Page-1">
     <mxGraphModel dx="344" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,20 +16,20 @@
         <mxCell id="XwFaH7wIQAs6k7ju9lew-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fillColor=#FFFFFF;strokeColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XwFaH7wIQAs6k7ju9lew-8" value="Social Self" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="365" y="70" width="40" height="20" as="geometry" />
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-8" value="Social Self&lt;br&gt;(Group Coordination)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332.5" y="80" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Bodily Self&lt;br&gt;(Navigation)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="235" y="305" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwFaH7wIQAs6k7ju9lew-9" value="Narrative Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="150" width="90" height="20" as="geometry" />
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-9" value="Narrative Self&lt;br&gt;(Planning)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwFaH7wIQAs6k7ju9lew-10" value="Volitional Self&lt;br&gt;(Dexterity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="300.25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwFaH7wIQAs6k7ju9lew-11" value="Perspectival Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="160" width="100" height="20" as="geometry" />
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-11" value="Perspectival Self&lt;br&gt;(Perception)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwFaH7wIQAs6k7ju9lew-19" value="&lt;font color=&quot;#0066cc&quot;&gt;Elephant (6.7b neurons)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="524" y="213" width="140" height="20" as="geometry" />
@@ -60,9 +60,6 @@
         </mxCell>
         <mxCell id="XwFaH7wIQAs6k7ju9lew-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.49,0.04],[0.73,0.29],[0.86,0.44],[0.74,0.82],[0.72,0.89],[0.34,0.77],[0.17,0.59],[0,0.4]];polyline=0;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="265" y="100" width="245" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="XwFaH7wIQAs6k7ju9lew-30" value="&lt;font color=&quot;#0066cc&quot;&gt;Elephant (300b neurons)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="180" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XwFaH7wIQAs6k7ju9lew-32" value="&lt;font color=&quot;#7f00ff&quot;&gt;Killer Whale (43b neurons)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="189" width="160" height="20" as="geometry" />
