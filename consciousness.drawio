@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2020-08-21T18:48:24.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" version="13.4.3" etag="J4iPrqMOk9dD9Z7lDX2U" type="github"><diagram id="m00LCVsBQZGCc9_Un1Sd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-21T19:53:28.235Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="OlkZeTB5m7IHLJNwWftm" version="13.4.3" type="github">
+  <diagram id="m00LCVsBQZGCc9_Un1Sd" name="Page-1">
+    <mxGraphModel dx="344" dy="271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-6" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="260" y="108" width="250" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-4" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="290" y="128" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-7" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-3" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.pentagon;fillColor=#FFFFFF;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="180" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-8" value="Social Self" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Bodily Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-9" value="Narrative Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-10" value="Volitional Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-11" value="Perspectival Self" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-19" value="&lt;font color=&quot;#0066cc&quot;&gt;Elephant&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="200" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-20" value="&lt;font color=&quot;#ff8000&quot;&gt;Crow&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-21" value="Octopus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.43,0.03],[0.73,0.2],[0.74,0.21],[0.82,0.71],[0.88,0.99],[0.25,0.92],[0.04,0.9],[0.18,0.22]];polyline=0;strokeColor=#1A1A1A;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="180" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-24" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.49,0],[0.5,0],[0.88,0.38],[0.88,0.39],[0.79,0.88],[0.78,0.88],[0.31,0.78],[0,0.35]];polyline=0;fillColor=none;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="282.5" y="122" width="205" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="XwFaH7wIQAs6k7ju9lew-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.32,0],[0.69,0.16],[1,0.29],[0.65,0.92],[0.64,0.92],[0.1,0.89],[0.08,0.77],[0,0.37]];polyline=0;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="335" y="150" width="155" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
