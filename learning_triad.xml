@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T10:45:26.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="WtITuwka123uIsDIGd0L" version="13.6.5" type="github"><diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">zZZRb5swEMc/DY+VAAfjPLa0W6tp0rSom7SXycABVg1mxhTSTz8n4ABLUDaJdMlDZP/vfI7vd+fYQkHefpS0zD6LGLjl2nFroXvLdfGK6O+dsO2EleN1QipZ3EnOIGzYG/Si3as1i6GaOCohuGLlVIxEUUCkJhqVUjRTt0Tw6a4lTeFI2ESUH6vfWayyTiWePeiPwNLM7OzYvSWk0UsqRV30+1kuSvafzpxTE6v3rzIai2YkoQcLBVII1Y3yNgC+S61JW7fuw4z18LslFOpvFnyi8jn9QZ4f3+z7Jy/5uvr5rbhxcRfmlfIazDkw1wHvqpIWepzuxkYLjRDUkomKqa2x6H3DP721Ng2yT4PamtQ3GVOwKWm0mze6urRTpnKuZ44e0qrsgCesBX2Iu4RxHggu5H45SkgEUbT7pUqKFxhZQuKtNECz5StIBe1s2pwDDF3jIHJQUh/LNgtMJfT1babNUCyHksjGhWJE2hdoegg9QNKDntO/MPNnmTGT69sGRhTYpRCAE3vgn0Kwxj6ieBkErn91CMgsgkMXPBUpFPVsiywLIqZAkpO9gCMCYbIMCLS+OhDr872wqWUpWfUuDaGvf/f0nRTjEHtLNYQz5eD4/x0Ess+DCERegoIieicUgGdQ+OvQXujvAaHrQ+Gcv5yMkAh9zHHW8a9aGMNNtX+t3WoHxy3bwWiifOF0fLt1wY7eAJe79Dwg8eoUYeKGCC/VbGRK2F1fkLCeDi/CvW306kYPvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T15:16:43.276Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gH4V_6PFu7GxTT3hIpOH" version="13.6.5" type="github">
+  <diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">
+    <mxGraphModel dx="648" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-26" value="&lt;span&gt;&lt;b&gt;Curiosity&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="210" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-27" value="&lt;i&gt;Awe&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-28" value="&lt;b&gt;Ingenuity&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-29" value="&lt;i&gt;Surprise&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="260" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-30" value="&lt;i&gt;Competence&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="380" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KarUgZ8UHz0DI5fR4_Vn-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Play&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="330" y="160" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
