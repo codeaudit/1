@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T10:37:47.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Y0OwiEBBcj61F5tnrYil" version="13.6.5" type="github"><diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">1ZdNc5swEIZ/jY+ZAfFhfIyJk7SdpmmTSXrLCFhADSAiZBv311cCgY3BjTMhaeqDLd6VVmKfXUmeGG5aXjCcx19pAMkEaUE5Mc4mCNmmI76lsKkF0zZrIWIkqCV9K9yQ36BETalLEkDR6cgpTTjJu6JPswx83tEwY3Td7RbSpDtrjiPoCTc+TvrqPQl4XKuOpW31SyBR3Mysa8riYf8xYnSZqfkmyAirT21OceNL9S9iHND1jmQsJobLKOV1Ky1dSGRom7DV484PWNt1M8j4MQM8Nz79zhJbi8jD9WJ1l/5w6UmzuBVOltC8h50Ih/OQCr9i2XyjQmU/LWljOCkqkKeiA5rl5dYoWpH6rbx4jXAbA2UbuZ6itbHGuCjzBGeYE5o1RvEi3r4zodWramTUWSDiUEo95mkiBF00cUKiTLR9ESRgQlgB40TQP1WGlASBHD5nIF4Je5UrTTznlGS8yi1rPrHOpK8lp/VrV6778VdI5BRQ7kiKxwXQFHgVA2VFplUPUbXjKBrrbSLqjRbvJKGpNKxyP2o9b/mLhkqBl6SDfjAdejCOzg97KD9CymSlxyBjuGQ5LWSLiuLRXEYEIlKkB7EPZch/ngotZ5UKlt7PBcMeyAU0Qi48fZn9ejAuPz/wlTu9n/7U4Orqb1tDkePsYKGfU5aKWHfwDVVy18kevnVMONzk2JfPa3Hw7LEs8vosCEkJgUwnkiQuTURSyeFG6Pjg+3KlnNFH2LF4jmVaWjtlD9AAxqOZ6dZA/WoDzFpxfGiHC5jsbLYiwwsodmCQtyIBemDBdIjEzJ4a2B6HhKF9PBLo+a30mkFAfHnqFUdtaq9kEWBwwsGqsH0HvHAcFib6eCzM56vCFRBIwQcuJ9/C9ygUcXFEw1tWYHu2NVKhtFcHBQdN/z0c63k4t1BwEbQemvnmfdCAfQDNdOZpI50m7en+gdBMx78O6mjoOvhJ3snEscTx/m744pvfazdJC5zAHILtIM+wxzqw9C5sY/aGsMXj9m9mZdv5K28s/gA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-02T17:11:07.364Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BwKXjRlHiIcRk5XWgxmR" version="13.6.6" type="github">
+  <diagram id="23cd3d57-70d3-aa07-4344-c8512c3c706a" name="Page-1">
+    <mxGraphModel dx="718" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bChAQrl60gi_PEvVmRCo-20" value="&lt;font style=&quot;font-size: 29px&quot;&gt;&lt;b&gt;Theory is&lt;br&gt;Explanation&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="70" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bChAQrl60gi_PEvVmRCo-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;for the purpose of Criticism&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="510" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-20" value="&lt;span&gt;&lt;b&gt;Formalism&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="420" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-21" value="&lt;i&gt;Expresses&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-22" value="&lt;b&gt;Predictions&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="300" y="360" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-24" value="&lt;i&gt;Of&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="300" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-25" value="&lt;i&gt;Tested&lt;br&gt;By&lt;/i&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="240" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qK9j_3HJ_tvC7W7X0eNN-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Interpretations&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="180" y="140" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
