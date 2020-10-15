@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T10:34:38.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="gOd8Sb3mHF0pHY1HE_B3" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T10:35:48.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="AG9wi6HDllOqJoKMw7OW" version="13.7.6" type="github">
   <diagram id="pv4QLUC8P7uYkKrd3EWh" name="Page-1">
     <mxGraphModel dx="626" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint x="376" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="herYgURXXc1vALCU8HwU-45" value="Phase&lt;br&gt;Transition" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="herYgURXXc1vALCU8HwU-40">
+        <mxCell id="herYgURXXc1vALCU8HwU-45" value="Renormalization" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="herYgURXXc1vALCU8HwU-40">
           <mxGeometry x="-0.2867" y="3" relative="1" as="geometry">
             <mxPoint x="17.08" y="20.490000000000002" as="offset" />
           </mxGeometry>
