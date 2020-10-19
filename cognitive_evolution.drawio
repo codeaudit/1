@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T23:51:21.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="ZBs9UkO8VpFy67JOYSfT" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T23:58:34.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="-tmcGNi5LplSEiU6cQ1k" version="13.8.0" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
     <mxGraphModel dx="858" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-13" value="Energy Regulating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-14" value="Rest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="130" y="370" width="40" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-14" value="Resting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-15" value="Energy Seeking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="275" y="370" width="110" height="20" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-19" value="Approaching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="540" y="400" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-20" value="Action Intention" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-oYrf_uy26-qNpr954tw-20" value="Action Intending" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="240" y="530" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-21" value="Action Specifying" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
@@ -94,11 +94,11 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-34" value="Affording" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="20" y="665" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-35" value="Dividate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="110" y="825" width="60" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-35" value="Dividating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="105" y="825" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-36" value="Analogy&lt;br&gt;Making" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="170" y="705" width="60" height="30" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-36" value="Analogizing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="710" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-37" value="Procedural&lt;br&gt;Thinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="605" width="80" height="30" as="geometry" />
@@ -112,14 +112,14 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-40" value="Participatory&lt;br&gt;Thinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="426.18" y="695" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-41" value="Shared Intention" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="245" y="750" width="110" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-41" value="Sharing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="750" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-42" value="Coordinating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="675" y="460" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-43" value="Social Thinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="675" y="800" width="100" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-43" value="Socializing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="685" y="800" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-44" value="Imitating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="520" width="70" height="20" as="geometry" />
@@ -358,8 +358,8 @@
             <mxPoint x="750" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-116" value="Conversational&lt;br&gt;Thinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="550" y="910" width="100" height="30" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-116" value="Conversing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="555" y="920" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-117" value="" style="endArrow=none;html=1;entryX=0.486;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-oYrf_uy26-qNpr954tw-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -430,8 +430,8 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-132" value="Symmetry&lt;br&gt;Breaking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="670" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-133" value="Reordinate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="165" y="820" width="80" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-133" value="Reordinating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="820" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-138" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -445,8 +445,8 @@
             <mxPoint x="200" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-140" value="Vidate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="40" y="850" width="50" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-140" value="Vidating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="845" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-141" value="" style="endArrow=none;html=1;entryX=0.54;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.42;exitY=-0.25;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-oYrf_uy26-qNpr954tw-140" target="-oYrf_uy26-qNpr954tw-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
