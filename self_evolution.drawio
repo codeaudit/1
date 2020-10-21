@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T17:01:54.741Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="4vr_KZLpC8PqayumNKwv" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-21T17:02:48.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="EbKnvbUNSoGPGWKpmZXa" version="13.8.0" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
     <mxGraphModel dx="2173" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-50" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Bodily Self&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="25" y="100" width="455" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-1" value="Life" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="375" y="50" width="40" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-1" value="Living" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-2" value="Homeostasis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="265" y="110" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-3" value="Autocatalysis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="110" width="90" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-3" value="Growing/Replicating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="410" y="110" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-4" value="Physiology" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="80" height="20" as="geometry" />
