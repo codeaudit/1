@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T12:35:49.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="6eavNDsfXjPuXNmrUf5z" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T12:41:34.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="_QZwtJTxMYKUZ_96Dn-w" version="13.8.6" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
     <mxGraphModel dx="1796" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-19" value="Approaching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="540" y="400" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-20" value="Perspective&lt;br&gt;Regulating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="145" y="535" width="80" height="30" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-20" value="Perspective&lt;br&gt;Regulating&lt;br&gt;(Attending)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#0066CC;" parent="1" vertex="1">
+          <mxGeometry x="145" y="525" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-21" value="Purposeful Acting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="330" y="520" width="120" height="20" as="geometry" />
@@ -97,8 +97,8 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-38" value="Propositional&lt;br&gt;Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="410" y="880" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-39" value="Play" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="255" y="550" width="40" height="20" as="geometry" />
+        <mxCell id="-oYrf_uy26-qNpr954tw-39" value="Playing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="245" y="550" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-40" value="Participatory&lt;br&gt;Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="410" y="635" width="90" height="30" as="geometry" />
