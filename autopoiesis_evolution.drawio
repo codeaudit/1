@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T12:29:59.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="o-pUVwinHqGjCglPI3LP" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-30T12:31:33.020Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="PxH6ESGmRb6vIeAtnW_Z" version="13.8.6" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
     <mxGraphModel dx="1796" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,16 +79,16 @@
         <mxCell id="-oYrf_uy26-qNpr954tw-21" value="Purposeful Acting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="330" y="520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-33" value="Levating&lt;br&gt;(Attending)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-oYrf_uy26-qNpr954tw-33" value="Levating&lt;br&gt;(Attending)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="210" y="642.81" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-34" value="Vidating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-oYrf_uy26-qNpr954tw-34" value="Vidating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="25" y="665" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-35" value="Symmetry&lt;br&gt;Breaking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="820" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-36" value="Ordinating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-oYrf_uy26-qNpr954tw-36" value="Ordinating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="155" y="695" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-37" value="Procedural&lt;br&gt;Learning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#FF0000;" parent="1" vertex="1">
@@ -338,7 +338,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-oYrf_uy26-qNpr954tw-132" value="Dividating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="-oYrf_uy26-qNpr954tw-132" value="Dividating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="100" y="675" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-133" value="Analogizing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
