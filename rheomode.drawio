@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:29:55.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.6" etag="cPZ1prXRng3-uTXcbGyo" type="github"><diagram id="hyerJWfgzzLYq4zMCcle">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-30T13:55:37.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qb-1FhtVq8CTV_tE9sAR" version="13.8.6" type="github">
+  <diagram id="hyerJWfgzzLYq4zMCcle" name="Page-1">
+    <mxGraphModel dx="1796" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CBMlKCRongLMFeP7LTyU-1" value="Levate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="80" y="129.99999999999994" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-2" value="Vidate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-3" value="Ordinate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="140" y="300.00000000000006" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-4" value="Dividate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-5" value="Verrate&lt;br&gt;To See Truth" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-40" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-6" value="Factate&lt;br&gt;To Do" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-7" value="Constate&lt;br&gt;To Confirm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CBMlKCRongLMFeP7LTyU-8" value="Structate&lt;br&gt;To create Structures" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
