@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T23:04:23.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="l891ezx9915Bdo4F67Nt" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T17:31:14.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="nnt-e2ccPH7FzV_q1xMn" version="13.9.9" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
-    <mxGraphModel dx="1702" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1660" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="252.82" y="265.68" width="591.38" height="503.19" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-57" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;direction=south;opacity=75;" parent="1" vertex="1">
-          <mxGeometry x="615" y="430" width="368.35" height="680" as="geometry" />
+          <mxGeometry x="600" y="430" width="440" height="700" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-51" value="&lt;b style=&quot;font-size: 20px&quot;&gt;Perspectival Self&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;opacity=75;" parent="1" vertex="1">
           <mxGeometry x="-30" y="500" width="450" height="460" as="geometry" />
@@ -134,7 +134,7 @@
           <mxGeometry x="656.15" y="640" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-65" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Social Self&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="739.1800000000001" y="1067.2" width="120" height="20" as="geometry" />
+          <mxGeometry x="910.0000000000001" y="800" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-69" value="" style="endArrow=none;html=1;exitX=0.589;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=classic;startFill=1;entryX=0.3;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="-oYrf_uy26-qNpr954tw-2" target="-oYrf_uy26-qNpr954tw-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -299,7 +299,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-116" value="Conversing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="775" y="1020" width="80" height="20" as="geometry" />
+          <mxGeometry x="790" y="1010" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-oYrf_uy26-qNpr954tw-117" value="" style="endArrow=none;html=1;entryX=0.486;entryY=1.15;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.567;exitY=-0.25;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;startArrow=classic;startFill=1;" parent="1" source="-oYrf_uy26-qNpr954tw-46" target="-oYrf_uy26-qNpr954tw-56" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -426,7 +426,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mkHN4t7ccEG0YRvoCYVk-3" value="Narrative&lt;br&gt;Controlling" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontColor=#0066CC;" parent="1" vertex="1">
-          <mxGeometry x="535" y="950" width="80" height="30" as="geometry" />
+          <mxGeometry x="555" y="935" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mkHN4t7ccEG0YRvoCYVk-4" value="" style="endArrow=classic;html=1;" parent="1" source="pLKT94hkDXa1pngBb9HN-9" target="mkHN4t7ccEG0YRvoCYVk-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -591,7 +591,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-13" value="Defecting/Revolting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="810" y="910" width="130" height="20" as="geometry" />
+          <mxGeometry x="866.15" y="915" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-14" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontColor=#009900;" parent="1" source="-oYrf_uy26-qNpr954tw-43" target="gnsAFXxWOqc1eTm4LJo9-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -609,10 +609,31 @@
           <mxGeometry x="201.65000000000003" y="1015" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;br&gt;Care&lt;br&gt;Compassion&lt;br&gt;Power&lt;br&gt;Connectedness&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="895" y="1037.2" width="130" height="80" as="geometry" />
+          <mxGeometry x="940" y="1067.2" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;/b&gt;&lt;b&gt;&lt;br&gt;Creation&lt;/b&gt;&lt;b&gt;&lt;br&gt;Competence&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="695" y="255" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PeVmoM3DS4KsM4FpGMNx-2" value="Gaming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="1077.2" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PeVmoM3DS4KsM4FpGMNx-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="mkHN4t7ccEG0YRvoCYVk-3" target="PeVmoM3DS4KsM4FpGMNx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="960" as="sourcePoint" />
+            <mxPoint x="655" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeVmoM3DS4KsM4FpGMNx-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="-oYrf_uy26-qNpr954tw-116" target="PeVmoM3DS4KsM4FpGMNx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1180" as="sourcePoint" />
+            <mxPoint x="540" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PeVmoM3DS4KsM4FpGMNx-5" value="" style="endArrow=classic;html=1;exitX=0.545;exitY=1.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.733;entryY=0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gnsAFXxWOqc1eTm4LJo9-13" target="PeVmoM3DS4KsM4FpGMNx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1170" as="sourcePoint" />
+            <mxPoint x="600" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
