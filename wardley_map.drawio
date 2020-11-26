@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T14:50:55.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="d1fTYT_Z5tp67JQkh1Co" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T14:54:04.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="SgJuiGEBh-CPcWcQqH9K" version="13.10.2" type="github">
   <diagram id="SZ1D2dMNAJkDN81yvN-u" name="Page-1">
     <mxGraphModel dx="1779" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         </mxCell>
         <UserObject label="" tooltip="Component" id="ZytXiSbGGcMKnFnPFabf-31">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;fontFamily=Helvetica;fontSize=13;align=center;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="600" y="-80" width="20" height="20" as="geometry" />
+            <mxGeometry x="610" y="-80" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-34" value="Control" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -83,7 +83,7 @@
           <mxGeometry x="405" y="-70" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-39" value="Agency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-20" width="60" height="20" as="geometry" />
+          <mxGeometry x="205" y="-60" width="60" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="Component" id="ZytXiSbGGcMKnFnPFabf-40">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;fontFamily=Helvetica;fontSize=13;align=center;strokeWidth=2;" vertex="1" parent="1">
@@ -91,7 +91,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-41" value="Connectednesss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="80" width="100" height="20" as="geometry" />
+          <mxGeometry x="335" y="30" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-44" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="110" width="20" height="20" as="geometry" />
@@ -107,11 +107,11 @@
         </mxCell>
         <UserObject label="" tooltip="Component" id="ZytXiSbGGcMKnFnPFabf-48">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;fontFamily=Helvetica;fontSize=13;align=center;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="620" y="200" width="20" height="20" as="geometry" />
+            <mxGeometry x="630" y="180" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-49" value="Calmness" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="220" width="70" height="20" as="geometry" />
+          <mxGeometry x="650" y="190" width="70" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="Component" id="ZytXiSbGGcMKnFnPFabf-50">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;fontFamily=Helvetica;fontSize=13;align=center;strokeWidth=2;" vertex="1" parent="1">
@@ -122,13 +122,13 @@
           <mxGeometry x="270" y="120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-53" value="Behavior" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="180" width="60" height="20" as="geometry" />
+          <mxGeometry x="415" y="200" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-55" value="Values" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="230" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-56" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;rotation=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="210" width="20" height="20" as="geometry" />
+          <mxGeometry x="450" y="220" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-57" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;outline=end;symbol=terminate;rotation=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="335" y="260" width="20" height="20" as="geometry" />
@@ -277,7 +277,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="Interface / line of the present" id="ZytXiSbGGcMKnFnPFabf-106">
-          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-46">
+          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-46" target="ZytXiSbGGcMKnFnPFabf-38">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="470" y="20" as="sourcePoint" />
               <mxPoint x="247" y="10" as="targetPoint" />
@@ -320,7 +320,7 @@
           <mxGeometry x="430" y="-148" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZytXiSbGGcMKnFnPFabf-116" value="&lt;b&gt;We&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-148" width="30" height="20" as="geometry" />
+          <mxGeometry x="510" y="-148" width="30" height="20" as="geometry" />
         </mxCell>
         <UserObject label="" tooltip="Interface / line of the present" id="ZytXiSbGGcMKnFnPFabf-117">
           <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-35" target="ZytXiSbGGcMKnFnPFabf-115">
@@ -331,7 +331,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="Interface / line of the present" id="ZytXiSbGGcMKnFnPFabf-118">
-          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-31" target="ZytXiSbGGcMKnFnPFabf-116">
+          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-31" target="ZytXiSbGGcMKnFnPFabf-116">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="330" y="30" as="sourcePoint" />
               <mxPoint x="360" y="-20" as="targetPoint" />
@@ -340,7 +340,7 @@
         </UserObject>
         <UserObject label="" tooltip="Component" id="ZytXiSbGGcMKnFnPFabf-38">
           <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fillColor=#ffffff;fontFamily=Helvetica;fontSize=13;align=center;strokeWidth=2;" vertex="1" parent="1">
-            <mxGeometry x="230" width="20" height="20" as="geometry" />
+            <mxGeometry x="230" y="-30" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="Interface / line of the present" id="ZytXiSbGGcMKnFnPFabf-125">
@@ -384,7 +384,7 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tooltip="Interface / line of the present" id="ZytXiSbGGcMKnFnPFabf-131">
-          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-57" target="ZytXiSbGGcMKnFnPFabf-56">
+          <mxCell style="endArrow=none;html=1;strokeColor=#000000;strokeWidth=1;fontFamily=Courier New;fontSize=14;fontColor=#000000;entryX=0.145;entryY=0.855;entryDx=0;entryDy=0;exitX=0.855;exitY=0.145;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="ZytXiSbGGcMKnFnPFabf-57" target="ZytXiSbGGcMKnFnPFabf-56">
             <mxGeometry width="50" height="50" relative="1" as="geometry">
               <mxPoint x="360" y="260" as="sourcePoint" />
               <mxPoint y="310" as="targetPoint" />
