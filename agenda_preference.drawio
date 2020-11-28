@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T13:57:04.104Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="adEZrwAcOiIlogK3bcm3" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T14:01:12.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="ZzGSaUTsw6w3APqj0X-v" version="13.10.4" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="814" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Inductive/Chaotic/Pluralistic Theory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="525" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Deductive/Ordered/Unified Theory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="204" y="5" width="320" height="30" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Deductive/Order/Unified Theory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="214" y="5" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Generative&lt;br&gt;Model" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="610" y="255" width="110" height="50" as="geometry" />
