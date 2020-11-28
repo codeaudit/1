@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T14:53:17.791Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="6O3A7jsWCrVkwV27C0ON" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T14:53:46.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="uGsqxyWmzBuI9g51ON38" version="13.10.4" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="814" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,10 +22,10 @@
         <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Deductive/Unified" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="279" y="5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Generative&lt;br&gt;/Sub-Symbolic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="599" y="255" width="140" height="50" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Generative&lt;br&gt;/Causation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="614" y="255" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Descriptive&lt;br&gt;/Symbolic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Descriptive&lt;br&gt;/Causality" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="4" y="255" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-18" value="Joscha&lt;br&gt;Bach&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
