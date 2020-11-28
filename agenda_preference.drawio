@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T11:15:25.140Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="15dzPxasv5peOYSO-CYq" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-28T11:16:48.400Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="Mhfh0EfCtVfzOqZrz182" version="13.10.4" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="814" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           <mxGeometry x="475" y="210" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-29" value="Hinton" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="370" y="340" width="10" height="10" as="geometry" />
+          <mxGeometry x="395" y="340" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-34" value="Bengio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="450" y="320" width="10" height="10" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-55" value="Hoffstadter" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="235" y="310" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="trqewR6XDROr1OXFbvpF-59" value="Donald&lt;br&gt;Hoffman" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="370" y="310" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
