@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T16:57:29.538Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="J7hzA49AZ4u4wP5zmSK_" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T17:09:11.137Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="rfVbbYQnHD5-zTptPVpk" version="13.10.4" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="834" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="570" y="210" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-75" value="Reinforcement Learning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="570" y="370" width="10" height="10" as="geometry" />
+          <mxGeometry x="580" y="310" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-78" value="Induction Bias" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="359" y="330" width="10" height="10" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="235" y="370" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eXJtEBARMdF0W1MzuHGJ-12" value="SelfPlay" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="540" y="391" width="10" height="10" as="geometry" />
+          <mxGeometry x="540" y="339" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eXJtEBARMdF0W1MzuHGJ-14" value="Fast and Frugal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="10" height="10" as="geometry" />
