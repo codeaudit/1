@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T10:51:31.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="2Ei-3YuJ6Y0b4dD6mKES" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-01T10:53:08.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="SjGCcXTJmRk4wE-48EpB" version="13.10.4" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1623" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="436" y="380" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-34" value="Bengio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="485" y="294" width="10" height="10" as="geometry" />
+          <mxGeometry x="455" y="330" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-39" value="Schmidhuber" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="10" height="10" as="geometry" />
@@ -92,13 +92,13 @@
           <mxGeometry x="485" y="360" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-78" value="Lake" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="324" y="360" width="10" height="10" as="geometry" />
+          <mxGeometry x="360.25" y="398" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-83" value="Cantwell-Smith" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="150" y="370" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-84" value="Tenenbaum&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="290" y="320" width="10" height="10" as="geometry" />
+          <mxGeometry x="340" y="380" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-85" value="Michael&lt;br&gt;Jordan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="350.25" y="82" width="10" height="10" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry x="420" y="180" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-87" value="Vicarious" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="10" height="10" as="geometry" />
+          <mxGeometry x="390" y="415" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-88" value="Paul&lt;br&gt;Cisek" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="405" width="10" height="10" as="geometry" />
