@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T10:35:28.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ScTIhQRjxgyLOp7RvpTA" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T10:37:17.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="f_b-V2KEXwIcOJ-HptAk" version="14.0.0" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1562" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           <mxGeometry x="465" y="255" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-29" value="Capsule&lt;br&gt;Networks" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="426" y="371" width="10" height="10" as="geometry" />
+          <mxGeometry x="436" y="349" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-39" value="Meta Learning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="396" y="175" width="10" height="10" as="geometry" />
@@ -71,19 +71,19 @@
           <mxGeometry x="580" y="310" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-78" value="Induction Bias" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="359" y="330" width="10" height="10" as="geometry" />
+          <mxGeometry x="370" y="290" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-83" value="Judgement" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="183" y="440" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-84" value="Bayesian&lt;br&gt;Brain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="330" y="285" width="10" height="10" as="geometry" />
+          <mxGeometry x="495" y="195" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-86" value="Skill Acquisition Efficiency" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="426" y="205" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-87" value="RCN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="465" y="385" width="10" height="10" as="geometry" />
+          <mxGeometry x="475" y="339" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-88" value="Co-Evolution" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="410" width="10" height="10" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="235" y="370" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eXJtEBARMdF0W1MzuHGJ-12" value="SelfPlay" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="540" y="339" width="10" height="10" as="geometry" />
+          <mxGeometry x="540" y="359" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eXJtEBARMdF0W1MzuHGJ-14" value="Fast &amp;amp; Frugal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="290" y="440" width="10" height="10" as="geometry" />
@@ -113,13 +113,13 @@
           <mxGeometry x="580" y="480" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k-j6yH_58D2AUaqItA9q-2" value="Counterfactual&lt;br&gt;Possibilities" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="450" y="320" width="10" height="10" as="geometry" />
+          <mxGeometry x="380" y="320" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k-j6yH_58D2AUaqItA9q-5" value="Constructive&lt;br&gt;Dvelopment" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="485" y="165" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k-j6yH_58D2AUaqItA9q-6" value="Perspective Control" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="475" y="349" width="10" height="10" as="geometry" />
+          <mxGeometry x="460" y="320" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QWCSz0HMptk9CQ3aTMiP-1" value="Systematic&lt;br&gt;Generalization" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="450" y="130" width="10" height="10" as="geometry" />
@@ -128,7 +128,7 @@
           <mxGeometry x="310" y="165" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-1" value="Allostasis" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="450" y="405" width="10" height="10" as="geometry" />
+          <mxGeometry x="436" y="405" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-3" value="Hoeostasis" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="314" y="415" width="10" height="10" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="530" y="370" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-7" value="Motion" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="560" y="385" width="10" height="10" as="geometry" />
+          <mxGeometry x="465" y="385" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-8" value="Strange&lt;br&gt;Inversion" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="475" y="290" width="10" height="10" as="geometry" />
