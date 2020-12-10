@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T10:55:41.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KmCUQmHVcY-6wSk2hoIa" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T11:00:31.417Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="y-mYiquiN8wo2BXOD0aW" version="14.0.0" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1562" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,13 +47,13 @@
           <mxGeometry x="396" y="175" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-51" value="Openendedness" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="475" y="430" width="10" height="10" as="geometry" />
+          <mxGeometry x="570" y="265" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-55" value="Analogy&lt;br&gt;Making" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="235" y="405" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-59" value="Reality as Illusion" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="340" y="470" width="10" height="10" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-59" value="Illusionism" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="366" y="490" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-63" value="Compresson" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="200" y="60" width="10" height="10" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="492" y="339" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-88" value="Co-Evolution" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="520" y="410" width="10" height="10" as="geometry" />
+          <mxGeometry x="550" y="450" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-89" value="Free Energy Principle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="110" width="10" height="10" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="183" y="90" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k-j6yH_58D2AUaqItA9q-1" value="Environmental&lt;br&gt;Complexity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="580" y="480" width="10" height="10" as="geometry" />
+          <mxGeometry x="530" y="405" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="k-j6yH_58D2AUaqItA9q-2" value="Counterfactual&lt;br&gt;Possibilities" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="380" y="320" width="10" height="10" as="geometry" />
@@ -149,10 +149,10 @@
           <mxGeometry x="540" y="150" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-11" value="Extended Mind" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="386" y="450" width="10" height="10" as="geometry" />
+          <mxGeometry x="400" y="450" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IPhS42mVwaJLq9LUPgia-12" value="Nanointentionality" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="495" y="460" width="10" height="10" as="geometry" />
+        <mxCell id="IPhS42mVwaJLq9LUPgia-12" value="Nano Intentionality" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="502" y="440" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-13" value="Symbolic Species" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="369" y="359" width="10" height="10" as="geometry" />
@@ -186,6 +186,12 @@
         </mxCell>
         <mxCell id="IPhS42mVwaJLq9LUPgia-27" value="Gestalt" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="320" y="339" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IPhS42mVwaJLq9LUPgia-28" value="Shared Intentionality" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="446" y="430" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IPhS42mVwaJLq9LUPgia-32" value="Empathy" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="376" y="470" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
