@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T10:52:54.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0C7FuAV5vkyWs0VM8qjd" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T10:55:14.436Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="srKyC7UdhO_tIYoJ79gH" version="14.0.0" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
-    <mxGraphModel dx="1562" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1562" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,8 +82,8 @@
         <mxCell id="trqewR6XDROr1OXFbvpF-86" value="Skill Acquisition Efficiency" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="426" y="205" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-87" value="RCN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="475" y="339" width="10" height="10" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-87" value="Ciontiguity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="492" y="339" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-88" value="Co-Evolution" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="410" width="10" height="10" as="geometry" />
