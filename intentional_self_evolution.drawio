@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T22:01:00.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="RuUhyzuyUMkjmz2NuvEC" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-07T22:37:13.987Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="yVZoZsjqtSpcsuf7Vo_0" version="14.8.5" type="github">
   <diagram id="261lAa1EZaPhHnJhHldy" name="Page-1">
-    <mxGraphModel dx="2273" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1439" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,19 +600,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-15" value="&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;br&gt;Sustenance&lt;br&gt;Safety&lt;br&gt;Calmness&lt;br&gt;&lt;br&gt;Neurotransmitters:&lt;br&gt;Serotonin&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="-65" y="320" width="130" height="120" as="geometry" />
+          <mxGeometry x="-90" y="330" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-16" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;br&gt;&lt;/b&gt;&lt;b&gt;Certainty&lt;/b&gt;&lt;b&gt;&lt;br&gt;Curiosity&lt;br&gt;&lt;/b&gt;&lt;br&gt;&lt;b&gt;Dopamine&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="-50" y="905" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-17" value="&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;br&gt;Prosperity&lt;br&gt;Creativity&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="201.65000000000003" y="1015" width="130" height="50" as="geometry" />
+          <mxGeometry x="225.00000000000003" y="1030" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0 , 0 , 0) ; text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;Care&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Compassion&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Power&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;Connectedness&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-weight: bold&quot;&gt;Neurotransmitters:&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0)&quot;&gt;&lt;b&gt;Oxytocin&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="1020" y="930" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gnsAFXxWOqc1eTm4LJo9-19" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;b&gt;Intrinsic Motivators:&lt;br&gt;Creation&lt;br&gt;Competence&lt;br&gt;&lt;br&gt;Neurotransmitters:&lt;br&gt;Dopamine&lt;br&gt;Endorphin&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="700" y="220" width="130" height="35" as="geometry" />
+          <mxGeometry x="700" y="202.5" width="130" height="35" as="geometry" />
         </mxCell>
         <mxCell id="PeVmoM3DS4KsM4FpGMNx-2" value="Gaming" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="820" y="1087.2" width="60" height="20" as="geometry" />
