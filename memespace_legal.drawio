@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T13:42:53.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="bsmLWKYxXmT1D_zJHzP_" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T13:48:04.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="1OZahBG1c37PyzwTqGzA" version="17.5.0" type="github">
   <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
     <mxGraphModel dx="1031" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,6 +24,51 @@
         </mxCell>
         <mxCell id="emyvE3eDgOfMS4Qi2Yjl-9" value="Liberty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-1" value="Process oriented" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-2" value="Hierarchical" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-3" value="Rule Following" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-4" value="Credentials matter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-5" value="Linear thinking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-6" value="No exceptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-7" value="People streotyping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-8" value="Completeness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-9" value="Anti-Corrupt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-10" value="Consequences are important" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-11" value="No one is above the law" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-12" value="Honor... word" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-13" value="Conscience... shame" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-14" value="I was just following the rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-15" value="Righter than right" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
