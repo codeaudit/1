@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T16:45:16.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="vnefPwFqsVCpjTuyzcvM" version="17.5.0" type="github"><diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">zZbfT4MwEMf/Gh5NKB1zPOp+aeKihphljxVOqBZKujKGf72dlDFWl2iidk+U713bu8/dJXXwONvOBSnSBY+BOZ4bbx08cTwPuRipz06pG2UYBI2QCBprp04I6Tu0O7Va0hjWPUfJOZO06IsRz3OIZE8jQvCq7/bCWf/WgiRgCGFEmKkuaSzTRh35bqffAE3S9mbkaktGWmctrFMS8+pAwlMHjwXnslll2zGwHbyWS7NvdsK6D0xALr+zAbJ6M8UwSe5fFuHgkXqrV3aBm1M2hJU64ZBEAmIdsqxbDoKXeQy7o5CDr6uUSggLEu2slaq80lKZMW02Q9PRbkBI2B5IOtQ58AykqJWLtuKh32yp237QGKuuCqhFmx5UYKg1oguf7I/u2KiFxvMDVAMD1VUpUy6orO3TCtw+rcA2Ld+gNVYJ2gd11FYDzzaooTmBEJVn0VX7pDUsH9mGdWnAuuM1YWfA6ngCPesTODJYzQgVOazX1mH5fVYD66wCs6/os0rHfl+NjkbwP1F5y6egul1Mq8fi/W1Wi9V84V0gA9UD8ELhUW8wlaag0W8wMwB9gfEkM4SOoP0dM/XbveA+bQfvYDz9AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-02T19:40:11.193Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ab1fcXsoRjVP-FO1LqDL" version="17.5.0" type="github">
+  <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
+    <mxGraphModel dx="1031" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-3" value="Sacred" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-4" value="Authority" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-5" value="Care" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-6" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-7" value="Loyalty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-8" value="Fairness" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-9" value="Liberty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2WU9wIMEwQpzkFyrYGM2-1" value="People centric" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-1" value="Coherence building as primary mode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-2" value="Shared Risk and Reward" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-3" value="Team composition factored in to achieve success&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-4" value="Avoids Not Invented Here" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-5" value="Seeks to connect with diverse audience" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-6" value="Understanding of self in context of community" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rm8ik1payT7V5yBFnDPb-7" value="Diversity of views leveraged for increased interpretation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
