@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T13:48:52.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="YJwCqSB5IZ2aSudsrUfl" version="17.5.0" type="github"><diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">zZlNc5swEIZ/jY/J8J34mJKvTpM0jQ+Z9qbABpSARIWwTX59JRC2QelMe/FysWElIelhV3pXLPy43N4IUuX3PIVi4TnpduFfLjzPdXxX/WlL21ui5bI3ZIKmptLesKIfMLQ01oamUI8qSs4LSauxMeGMQSJHNiIE34yrvfJi3GtFMrAMq4QUtvWZpjLvreehs7ffAs3yoWfXMSUlGSobQ52TlG8OTP7Vwo8F57K/KrcxFBrewKVvd/2X0t3ABDD5Lw2gbNdXPlxm31/vV8EP6v18K078/ilrUjRmwiuSCEjNkGU7cBC8YSnoR7kL/8smpxJWFUl06Ua9eWXLZVmYYntoZrRrEBK2ByYz1BvgJUjRqiqm1I/Cvkk7+IPBuNm/BXdAmx+8gcjYiHnx2e7RezbqwuD5D1SBheqikTkXVLb4tJbOmNYSm1Zo0YrVBPFBTdwq8LBBRXYEQtLMwqt2kzawQhcb1pkF6463pJgBq2kEeugReG6xuiZUMKhrdFjhmFWAzmpp+xV9UdPB96vzSQgeExV7j95uQvIgMvLUfKwev/26eDlxLVSPgiedVzlqM1QznYF62KkFg+0Mm5pnUbulIIhIcqq0JjqviZe5ETYvW5c+NQqO51zzouAbyjJ0ZmeTBR+dmS1QY6Xk1QQpKeo+I5Eg0LmFE3AhNjdbqt5RBkToVDOn7H0OzjaF5qKvaLZufeDqHrYJVJJyhq8yXH/MzEePUFu+PgKvunWtlgK4bKs5Opt/TN3/KThby8a8VOAkzEPPToAFPjYwW9BeqH3gJOZCNJVEB+Yu5wZscPGRi7EafjfAlLrVXerjC4eWFReSMHyGUwESoUepa+cG3Z7AWUeug/jC19BtrPq3IBt8jBNPxKf4Sa7AGRenp6d6WFzgp1fBZGcNA3RodsKgwzehOnp7cnVOSvwDyGh+6Oy84aseD9Hx+tbUaqXTn02GrMuErlDpGP7G6wXj41zvmMe5n9O0s4kn3S306QRhml03DnR20fFUnrrdf+jqyg4+F/pXfwA=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-02T13:49:33.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fuvk8Pfp5sGWD0P5OCib" version="17.5.0" type="github">
+  <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
+    <mxGraphModel dx="1031" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-3" value="Sacred" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-4" value="Authority" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-5" value="Care" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-6" value="Security" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-7" value="Loyalty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-8" value="Fairness" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="emyvE3eDgOfMS4Qi2Yjl-9" value="Liberty" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-1" value="Goal oriented" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
