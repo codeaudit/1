@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T13:49:33.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="fuvk8Pfp5sGWD0P5OCib" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-02T16:43:36.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="TrMtU7MEZEr22rceav7G" version="17.5.0" type="github">
   <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
     <mxGraphModel dx="1031" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,6 +27,45 @@
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-1" value="Goal oriented" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-1" value="Heuristic driven" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-2" value="Evidenced based (data driven)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-3" value="Trust in individual competence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-4" value="Rules and authority faciliate success." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-5" value="Rules and authority are not written in stone." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-6" value="Benchmarking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-7" value="Multiple outcomes and multiple solutions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-8" value="Recognition of individual over group" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-9" value="Probabilistic thinking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-10" value="Contextual Decision&lt;br&gt;Making" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-11" value="Consequential, temporal circumstance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-12" value="Change agent" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V8Oh6U_gnbyJbWy8pLcR-13" value="Responsibilty outside cultural norms" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
