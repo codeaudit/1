@@ -1,38 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T00:16:57.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6DWG80GeAIqNA5GQo764" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T00:58:37.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="U72a3trCMPpi_NCl2AHp" version="17.5.0" type="github">
   <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
     <mxGraphModel dx="1881" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-1" value="Process oriented" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-3" target="nk6jG5aNrgaRuzSPKZAb-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-220" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-3" value="Law Abiding" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-4" value="Credentials matter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-5" value="Linear thinking" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-6" target="nk6jG5aNrgaRuzSPKZAb-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-6" value="No exceptions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-7" value="People streotyping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-8" value="Completeness" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-9" value="Anti Corruption" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-10" value="People are accountable for their actions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-11" target="nk6jG5aNrgaRuzSPKZAb-28">
           <mxGeometry relative="1" as="geometry" />
@@ -40,14 +42,11 @@
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-11" value="No one is above the law" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-13" value="Conscience and Shame" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-14" value="I was just following the rules" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-15" value="Righter than right" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="425" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-16" target="nk6jG5aNrgaRuzSPKZAb-11">
           <mxGeometry relative="1" as="geometry" />
@@ -59,19 +58,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-18" value="Academia" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-20" target="nk6jG5aNrgaRuzSPKZAb-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-20" value="Gestalt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-22" target="nk6jG5aNrgaRuzSPKZAb-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-22" value="Free Will" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-24" target="nk6jG5aNrgaRuzSPKZAb-14">
           <mxGeometry relative="1" as="geometry" />
@@ -113,13 +106,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-32" value="Banking" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-34" target="nk6jG5aNrgaRuzSPKZAb-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-34" value="Debt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="-370" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-35" target="nk6jG5aNrgaRuzSPKZAb-28">
           <mxGeometry relative="1" as="geometry" />
@@ -127,8 +120,8 @@
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-35" value="Private Ownership" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-40" value="Indebted Servitude" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-40" value="Serfhood" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-44" value="Free Will" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
@@ -136,8 +129,26 @@
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-45" target="nk6jG5aNrgaRuzSPKZAb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-45" target="nk6jG5aNrgaRuzSPKZAb-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-45" value="Reputation and Honor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-230" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-52" target="nk6jG5aNrgaRuzSPKZAb-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nk6jG5aNrgaRuzSPKZAb-52" target="nk6jG5aNrgaRuzSPKZAb-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-52" value="Democracies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-54" value="Mandates matter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nk6jG5aNrgaRuzSPKZAb-59" value="Equality" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
