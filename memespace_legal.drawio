@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T20:05:26.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="iIKtbZ92JbLVappf_NM9" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T20:06:24.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="YtZvCkAYisHNfz6LrzJP" version="18.0.0" type="github">
   <diagram id="UsCKMXVSTxp-egwy1biC" name="Page-1">
     <mxGraphModel dx="1996" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,11 +12,6 @@
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-4" value="Credentials matter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="560" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nk6jG5aNrgaRuzSPKZAb-6" target="nk6jG5aNrgaRuzSPKZAb-52" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="480" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-6" value="Equality Under&lt;br&gt;the Law" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
@@ -123,26 +118,8 @@
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nk6jG5aNrgaRuzSPKZAb-45" target="nk6jG5aNrgaRuzSPKZAb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nk6jG5aNrgaRuzSPKZAb-45" target="nk6jG5aNrgaRuzSPKZAb-52" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nk6jG5aNrgaRuzSPKZAb-45" value="Reputation and Honor" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nk6jG5aNrgaRuzSPKZAb-52" target="nk6jG5aNrgaRuzSPKZAb-54" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nk6jG5aNrgaRuzSPKZAb-52" target="nk6jG5aNrgaRuzSPKZAb-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-52" value="Democracies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="480" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-54" value="Mandates matter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nk6jG5aNrgaRuzSPKZAb-59" value="Equality" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yUDlxdxbmeIh55G9ATO2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yUDlxdxbmeIh55G9ATO2-1" target="nk6jG5aNrgaRuzSPKZAb-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
