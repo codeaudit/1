@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T16:15:16.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zAG9JHF0g2p7PRo5pn2n" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-24T16:17:45.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jVi4EU7QdNNKsnL1h0aI" version="20.1.1" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1811" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,17 +22,17 @@
         <mxCell id="sh00X7Pk_uNUSvd-SBW9-6" value="Neutral&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="114" y="199" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-7" value="Pluralistic&lt;br&gt;Process" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-7" value="Pragmaticistic&lt;br&gt;Process" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="435.75" y="360" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-8" value="Pluralistic&lt;br&gt;Neutral" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-8" value="Pragmaticistic&lt;br&gt;Neutral" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="274.75" y="360" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-9" value="Pluralistic&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-9" value="Pragmaticistic&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="114" y="360" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Pluralistic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="300" y="520" width="110" height="40" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Pragmaticistic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="280" y="520" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Platonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="319" width="90" height="40" as="geometry" />
