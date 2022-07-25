@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T11:20:16.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="soBnZl3JUFImpPVIOkSd" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T11:21:01.109Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gDAXkvYZXO11DS3ISZNH" version="20.1.1" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1811" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-1" value="Platonic&lt;br&gt;Process" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-1" value="Platonic&lt;br&gt;Emergentism" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="435.75" y="38" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="sh00X7Pk_uNUSvd-SBW9-2" value="Platonic&lt;br&gt;Neutral" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="274.75" y="38" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-3" value="Platonic&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-3" value="Platonic&lt;br&gt;Reductionism" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="113.99999999999999" y="38" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-4" value="Neutral&lt;br&gt;Process" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-4" value="Neutral&lt;br&gt;Emergentism" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="435.75" y="199" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="sh00X7Pk_uNUSvd-SBW9-5" value="Neutral" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="274.75" y="199" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-6" value="Neutral&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-6" value="Neutral&lt;br&gt;Reuctionism" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="114" y="199" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-7" value="Pragmatic&lt;br&gt;Process" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-7" value="Pragmatic&lt;br&gt;Emergentism" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="435.75" y="360" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="sh00X7Pk_uNUSvd-SBW9-8" value="Pragmatic&lt;br&gt;Neutral" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="274.75" y="360" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="sh00X7Pk_uNUSvd-SBW9-9" value="Pragmatic&lt;br&gt;Substance" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2" parent="1" vertex="1">
+        <mxCell id="sh00X7Pk_uNUSvd-SBW9-9" value="Pragmatic&lt;br&gt;Reuductionsm" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=2" parent="1" vertex="1">
           <mxGeometry x="114" y="360" width="161" height="161" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Pragmatic&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
