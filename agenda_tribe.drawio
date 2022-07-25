@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-23T23:48:28.174Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6EPoFfQjGXgYRlF4nmQo" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:08:27.895Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a4UN2-AOxsp4BM1LfVVN" version="20.1.1" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
-    <mxGraphModel dx="1480" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,17 +16,17 @@
         <mxCell id="trqewR6XDROr1OXFbvpF-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="280" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Ecological" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="300" y="525" width="110" height="30" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-8" value="Pragmatic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="300" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Formulaic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="314" y="5" width="100" height="30" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Platonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="319" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Enactivist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="605" y="265" width="100" height="30" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Emergentist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="600" y="260" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Functionalist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-9" y="265" width="130" height="30" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Reductionist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-9" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="trqewR6XDROr1OXFbvpF-18" value="Model Making" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="250" y="344" width="10" height="10" as="geometry" />
@@ -220,7 +220,7 @@
         <mxCell id="QQ5lsJfEWCzBgGdAml2e-4" value="NARS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="193" y="349" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-WuOLa3Rh197mVIye4S0-1" value="Massive Modularity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="-WuOLa3Rh197mVIye4S0-1" value="Massive Modularity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="215" y="230" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
