@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T12:04:53.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ufy2f0jRIKM3a58bwzby" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T12:35:04.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DJHHxBMXS8HVUCJ6SWwD" version="20.1.1" type="github">
   <diagram id="e_Nu4UiDqZK5FSXZQxsC" name="Page-1">
     <mxGraphModel dx="1811" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="trqewR6XDROr1OXFbvpF-9" value="Platonic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="319" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Emergentism" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="589" y="260" width="140" height="40" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-10" value="Emergentism&lt;br&gt;(Process emphasis)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="590" y="249.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Reductionism" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="260" width="140" height="40" as="geometry" />
+        <mxCell id="trqewR6XDROr1OXFbvpF-11" value="Reductionism&lt;br&gt;(Substance emphasis)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-101" y="249.5" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PCBCEUplg-xkWiTj8X5o-1" value="Mechanical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="34" y="18" width="80" height="20" as="geometry" />
