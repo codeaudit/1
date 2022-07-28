@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T18:25:47.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6tRmn9_3k4G4LY6xGidX" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T18:27:02.026Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="M6pOu7E0xNV-WNK2DXvn" version="20.2.0" type="github">
   <diagram id="q7Endfqhxulxnqz8gKcs" name="Page-1">
     <mxGraphModel dx="961" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l6QgvKTfLtVlL3AsR-WV-5" value="Factuate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="l6QgvKTfLtVlL3AsR-WV-5" value="Competence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l6QgvKTfLtVlL3AsR-WV-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="l6QgvKTfLtVlL3AsR-WV-7" target="l6QgvKTfLtVlL3AsR-WV-1" edge="1">
@@ -207,8 +207,8 @@
         <mxCell id="l6QgvKTfLtVlL3AsR-WV-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#67AB9F;" parent="1" source="l6QgvKTfLtVlL3AsR-WV-43" target="l6QgvKTfLtVlL3AsR-WV-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l6QgvKTfLtVlL3AsR-WV-43" value="Cooperation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="120" y="350" width="90" height="30" as="geometry" />
+        <mxCell id="l6QgvKTfLtVlL3AsR-WV-43" value="Factuate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="350" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYosdrnLpDTpRpoJzwx4-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AYosdrnLpDTpRpoJzwx4-2" target="AYosdrnLpDTpRpoJzwx4-3" edge="1">
           <mxGeometry relative="1" as="geometry">
